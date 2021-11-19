@@ -1,2 +1,2 @@
 # odin-recipes
-I am going to be building a basic recipe website, through the curriculum of the Odin Project. I will be applying the header element, italicized element <em>, the bold element <strong>, and I will be linking to other webpages with the <a href> element. 
+I am going to be building a basic recipe website, through the curriculum of the Odin Project. I will be applying the header element, italicized element (em), the bold element (strong), and I will be linking to other webpages with the (a href) element. 
