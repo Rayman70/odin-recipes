@@ -1,0 +1,28 @@
+/* styles.css */
+body {
+    background-color: orange;
+}
+
+h1 {
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+a {
+    color: blue;
+}
+
+h3 {
+    color: darkgreen;
+    text-align: center;
+    padding: 20px;
+}
+
+p {
+    text-align: center;
+}
+
+ul, ol {
+    text-align: center;
+}
