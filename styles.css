@@ -1,4 +1,13 @@
 body {
     margin: 0;
     padding: 20px;
+    background-color: rgb(194, 132, 94);
+}
+
+h1 {
+    font-style: italic;
+}
+
+li {
+    font-size: 18px;
 }
