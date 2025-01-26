@@ -1,13 +1,30 @@
 body {
     margin: 0;
-    padding: 20px;
+    padding: 0;
     background-color: rgb(194, 132, 94);
+}
+
+.container {
+    display: block;
+    padding: 50px;
+    text-align: center;
 }
 
 h1 {
     font-style: italic;
 }
 
+ul {
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
 li {
     font-size: 18px;
+    list-style-type: none;
+    margin: 10px;
+}
+
+li a {
+    text-decoration: none;
 }
